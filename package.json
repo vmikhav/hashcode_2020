@@ -1,0 +1,15 @@
+{
+  "name": "hashcode_2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Volodymyr Mikhav <mihaw.wolodymyr@gmail.com> (http://hidalgocode.com)",
+  "license": "ISC",
+  "dependencies": {
+    "progress": "^2.0.3"
+  }
+}
